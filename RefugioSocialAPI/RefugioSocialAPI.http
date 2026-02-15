@@ -1,6 +1,0 @@
-@RefugioSocialAPI_HostAddress = http://localhost:5197
-
-GET {{RefugioSocialAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
