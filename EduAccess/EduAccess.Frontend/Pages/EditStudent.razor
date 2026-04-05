@@ -1,0 +1,49 @@
+﻿@page "/edit-student/{Id:int}"
+@using EduAccess.Domain.Entities
+@using EduAccess.Frontend.Services
+@inject StudentService StudentService
+@inject NavigationManager NavManager
+
+<div class="container mt-4">
+    <h3>Editar Estudiante (ID: @Id)</h3>
+
+    @if (student == null)
+    {
+        <p><em>Cargando datos...</em></p>
+    }
+    else
+    {
+        <div class="form-group mb-3">
+            <label>Nombre Completo</label>
+            <input class="form-control" @bind="student.FullName" />
+        </div>
+        <div class="form-group mb-3">
+            <label>Comunidad</label>
+            <input class="form-control" @bind="student.Community" />
+        </div>
+        <button class="btn btn-primary" @onclick="Guardar">Guardar Cambios</button>
+        <button class="btn btn-secondary" @onclick="Volver">Cancelar</button>
+    }
+</div>
+
+@code {
+    [Parameter] public int Id { get; set; }
+    private Student? student;
+
+    protected override async Task OnInitializedAsync()
+    {
+        // Esto busca al ID 3 en la API
+        student = await StudentService.GetStudentByIdAsync(Id);
+    }
+
+    private async Task Guardar()
+    {
+        if (student != null)
+        {
+            await StudentService.UpdateStudentAsync(Id, student);
+            NavManager.NavigateTo("/students");
+        }
+    }
+
+    private void Volver() => NavManager.NavigateTo("/students");
+}

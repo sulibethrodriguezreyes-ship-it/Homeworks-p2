@@ -1,0 +1,11 @@
+C:\Users\Admni\source\repos\EduAccess\EduAccess\bin\Debug\net10.0\EduAccess.Domain.deps.json
+C:\Users\Admni\source\repos\EduAccess\EduAccess\bin\Debug\net10.0\EduAccess.Domain.dll
+C:\Users\Admni\source\repos\EduAccess\EduAccess\bin\Debug\net10.0\EduAccess.Domain.pdb
+C:\Users\Admni\source\repos\EduAccess\EduAccess\obj\Debug\net10.0\EduAccess.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admni\source\repos\EduAccess\EduAccess\obj\Debug\net10.0\EduAccess.Domain.AssemblyInfoInputs.cache
+C:\Users\Admni\source\repos\EduAccess\EduAccess\obj\Debug\net10.0\EduAccess.Domain.AssemblyInfo.cs
+C:\Users\Admni\source\repos\EduAccess\EduAccess\obj\Debug\net10.0\EduAccess.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admni\source\repos\EduAccess\EduAccess\obj\Debug\net10.0\EduAccess.Domain.dll
+C:\Users\Admni\source\repos\EduAccess\EduAccess\obj\Debug\net10.0\refint\EduAccess.Domain.dll
+C:\Users\Admni\source\repos\EduAccess\EduAccess\obj\Debug\net10.0\EduAccess.Domain.pdb
+C:\Users\Admni\source\repos\EduAccess\EduAccess\obj\Debug\net10.0\ref\EduAccess.Domain.dll

@@ -1,0 +1,56 @@
+﻿@page "/add-student"
+@using EduAccess.Domain.Entities
+@using EduAccess.Frontend.Services
+@inject StudentService StudentService
+@inject NavigationManager NavManager
+
+<PageTitle>Nuevo Estudiante</PageTitle>
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow">
+                <div class="card-header bg-success text-white">
+                    <h4 class="mb-0"><i class="bi bi-person-plus"></i> Registrar Estudiante</h4>
+                </div>
+                <div class="card-body">
+                    <div class="mb-3">
+                        <label class="form-label">Nombre Completo</label>
+                        <input class="form-control" @bind="newStudent.FullName" placeholder="Ej: Juan Pérez" />
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Comunidad</label>
+                        <input class="form-control" @bind="newStudent.Community" placeholder="Ej: Centro Histórico" />
+                    </div>
+
+                    <div class="d-flex justify-content-between">
+                        <button class="btn btn-secondary" @onclick="Cancelar">
+                            <i class="bi bi-arrow-left"></i> Volver
+                        </button>
+                        <button class="btn btn-success" @onclick="Guardar">
+                            <i class="bi bi-save"></i> Guardar Estudiante
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+    private Student newStudent = new Student();
+
+    private async Task Guardar()
+    {
+        if (!string.IsNullOrWhiteSpace(newStudent.FullName))
+        {
+            await StudentService.CreateStudentAsync(newStudent);
+            NavManager.NavigateTo("/students"); // Te regresa a la tabla al terminar
+        }
+    }
+
+    private void Cancelar()
+    {
+        NavManager.NavigateTo("/students");
+    }
+}

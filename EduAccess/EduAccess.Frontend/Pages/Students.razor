@@ -1,0 +1,81 @@
+﻿@page "/students"
+@using EduAccess.Application.DTOs
+@using EduAccess.Frontend.Services
+@inject StudentService StudentService
+@inject NavigationManager NavManager
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2 class="text-primary">Gestión de Estudiantes</h2>
+        <a href="/add-student" class="btn btn-success">
+            + Nuevo Registro
+        </a>
+    </div>
+
+    <table class="table table-striped table-bordered shadow-sm">
+        <thead class="table-dark">
+            <tr>
+                <th>ID</th>
+                <th>Nombre Completo</th>
+                <th>Comunidad</th>
+                <th class="text-center">Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (students == null)
+            {
+                <tr><td colspan="4" class="text-center">Cargando...</td></tr>
+            }
+            else if (!students.Any())
+            {
+                <tr><td colspan="4" class="text-center">No hay registros</td></tr>
+            }
+            else
+            {
+                foreach (var student in students)
+                {
+                    <tr>
+                        <td>@student.StudentId</td>
+                        <td>@student.FullName</td>
+                        <td>@student.Community</td>
+                        <td class="text-center">
+                            <button class="btn btn-warning btn-sm me-2" @onclick="() => IrAEditar(student.StudentId)">
+                                Editar
+                            </button>
+                            
+                            <button class="btn btn-danger btn-sm" @onclick="() => Borrar(student.StudentId)">
+                                Eliminar
+                            </button>
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
+
+@code {
+    private List<StudentResponseDto> students = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        await CargarLista();
+    }
+
+    private async Task CargarLista()
+    {
+        students = await StudentService.GetStudentsAsync();
+    }
+
+    // ARREGLADO: Función para navegar a la página de edición
+    private void IrAEditar(int id)
+    {
+        NavManager.NavigateTo($"/edit-student/{id}");
+    }
+
+    private async Task Borrar(int id)
+    {
+        await StudentService.DeleteStudentAsync(id);
+        await CargarLista();
+    }
+}

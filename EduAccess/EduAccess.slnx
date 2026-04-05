@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="EduAccess.API/EduAccess.API.csproj" />
+  <Project Path="EduAccess.Application/EduAccess.Application.csproj" />
+  <Project Path="EduAccess.Frontend/EduAccess.Frontend.csproj" Id="6abed406-ea0d-4131-b02d-419fc77e9143" />
+  <Project Path="EduAccess.Infrastructure/EduAccess.Infrastructure.csproj">
+    <BuildDependency Project="EduAccess/EduAccess.Domain.csproj" />
+  </Project>
+  <Project Path="EduAccess/EduAccess.Domain.csproj" />
+</Solution>

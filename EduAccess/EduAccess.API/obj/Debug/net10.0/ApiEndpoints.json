@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "EduAccess.API.Controllers.CreateStudentController",
+    "Method": "Create",
+    "RelativePath": "api/CreateStudent",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "EduAccess.Domain.Entities.Student",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EduAccess.API.Controllers.Students.DeleteStudentController",
+    "Method": "Delete",
+    "RelativePath": "api/DeleteStudent/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EduAccess.API.Controllers.GetStudentsController",
+    "Method": "GetAll",
+    "RelativePath": "api/GetStudents",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EduAccess.API.Controllers.GetStudentsController",
+    "Method": "GetById",
+    "RelativePath": "api/GetStudents/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EduAccess.API.Controllers.Students.UpdateStudentController",
+    "Method": "Update",
+    "RelativePath": "api/UpdateStudent/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateDto",
+        "Type": "EduAccess.Application.DTOs.StudentUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

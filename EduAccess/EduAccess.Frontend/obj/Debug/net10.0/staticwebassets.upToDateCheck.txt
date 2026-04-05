@@ -1,0 +1,3 @@
+C:\Users\Admni\source\repos\EduAccess\EduAccess.Frontend\wwwroot\css\app.css
+wwwroot\css\app.css
+wwwroot\icon-192.png

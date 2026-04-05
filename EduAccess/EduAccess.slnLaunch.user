@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "EduAccess.API\\EduAccess.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "EduAccess.Frontend\\EduAccess.Frontend.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

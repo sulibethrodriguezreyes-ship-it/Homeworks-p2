@@ -1,0 +1,15 @@
+C:\Users\Admni\source\repos\EduAccess\EduAccess.Application\bin\Debug\net10.0\EduAccess.Application.deps.json
+C:\Users\Admni\source\repos\EduAccess\EduAccess.Application\bin\Debug\net10.0\EduAccess.Application.dll
+C:\Users\Admni\source\repos\EduAccess\EduAccess.Application\bin\Debug\net10.0\EduAccess.Application.pdb
+C:\Users\Admni\source\repos\EduAccess\EduAccess.Application\bin\Debug\net10.0\EduAccess.Domain.dll
+C:\Users\Admni\source\repos\EduAccess\EduAccess.Application\bin\Debug\net10.0\EduAccess.Domain.pdb
+C:\Users\Admni\source\repos\EduAccess\EduAccess.Application\obj\Debug\net10.0\EduAccess.Application.csproj.AssemblyReference.cache
+C:\Users\Admni\source\repos\EduAccess\EduAccess.Application\obj\Debug\net10.0\EduAccess.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admni\source\repos\EduAccess\EduAccess.Application\obj\Debug\net10.0\EduAccess.Application.AssemblyInfoInputs.cache
+C:\Users\Admni\source\repos\EduAccess\EduAccess.Application\obj\Debug\net10.0\EduAccess.Application.AssemblyInfo.cs
+C:\Users\Admni\source\repos\EduAccess\EduAccess.Application\obj\Debug\net10.0\EduAccess.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admni\source\repos\EduAccess\EduAccess.Application\obj\Debug\net10.0\EduAcces.5EE1C700.Up2Date
+C:\Users\Admni\source\repos\EduAccess\EduAccess.Application\obj\Debug\net10.0\EduAccess.Application.dll
+C:\Users\Admni\source\repos\EduAccess\EduAccess.Application\obj\Debug\net10.0\refint\EduAccess.Application.dll
+C:\Users\Admni\source\repos\EduAccess\EduAccess.Application\obj\Debug\net10.0\EduAccess.Application.pdb
+C:\Users\Admni\source\repos\EduAccess\EduAccess.Application\obj\Debug\net10.0\ref\EduAccess.Application.dll

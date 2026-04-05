@@ -1,0 +1,427 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admni\\source\\repos\\EduAccess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABED406-EA0D-4131-B02D-419FC77E9143}|EduAccess.Frontend\\EduAccess.Frontend.csproj|c:\\users\\admni\\source\\repos\\eduaccess\\eduaccess.frontend\\pages\\editstudent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ABED406-EA0D-4131-B02D-419FC77E9143}|EduAccess.Frontend\\EduAccess.Frontend.csproj|solutionrelative:eduaccess.frontend\\pages\\editstudent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581B7E7E-E40A-EE8D-0FEA-7631CD2BC1E0}|EduAccess.API\\EduAccess.API.csproj|c:\\users\\admni\\source\\repos\\eduaccess\\eduaccess.api\\controllers\\getstudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581B7E7E-E40A-EE8D-0FEA-7631CD2BC1E0}|EduAccess.API\\EduAccess.API.csproj|solutionrelative:eduaccess.api\\controllers\\getstudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABED406-EA0D-4131-B02D-419FC77E9143}|EduAccess.Frontend\\EduAccess.Frontend.csproj|c:\\users\\admni\\source\\repos\\eduaccess\\eduaccess.frontend\\pages\\students.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ABED406-EA0D-4131-B02D-419FC77E9143}|EduAccess.Frontend\\EduAccess.Frontend.csproj|solutionrelative:eduaccess.frontend\\pages\\students.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABED406-EA0D-4131-B02D-419FC77E9143}|EduAccess.Frontend\\EduAccess.Frontend.csproj|c:\\users\\admni\\source\\repos\\eduaccess\\eduaccess.frontend\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABED406-EA0D-4131-B02D-419FC77E9143}|EduAccess.Frontend\\EduAccess.Frontend.csproj|solutionrelative:eduaccess.frontend\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E77C8D1-CCCB-AB9D-4265-CE3D1BFEE514}|EduAccess.Infrastructure\\EduAccess.Infrastructure.csproj|c:\\users\\admni\\source\\repos\\eduaccess\\eduaccess.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E77C8D1-CCCB-AB9D-4265-CE3D1BFEE514}|EduAccess.Infrastructure\\EduAccess.Infrastructure.csproj|solutionrelative:eduaccess.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581B7E7E-E40A-EE8D-0FEA-7631CD2BC1E0}|EduAccess.API\\EduAccess.API.csproj|c:\\users\\admni\\source\\repos\\eduaccess\\eduaccess.api\\controllers\\createstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581B7E7E-E40A-EE8D-0FEA-7631CD2BC1E0}|EduAccess.API\\EduAccess.API.csproj|solutionrelative:eduaccess.api\\controllers\\createstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E72868F-840C-B000-3579-3BF47B45E83A}|EduAccess.Application\\EduAccess.Application.csproj|c:\\users\\admni\\source\\repos\\eduaccess\\eduaccess.application\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E72868F-840C-B000-3579-3BF47B45E83A}|EduAccess.Application\\EduAccess.Application.csproj|solutionrelative:eduaccess.application\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABED406-EA0D-4131-B02D-419FC77E9143}|EduAccess.Frontend\\EduAccess.Frontend.csproj|c:\\users\\admni\\source\\repos\\eduaccess\\eduaccess.frontend\\pages\\addstudent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ABED406-EA0D-4131-B02D-419FC77E9143}|EduAccess.Frontend\\EduAccess.Frontend.csproj|solutionrelative:eduaccess.frontend\\pages\\addstudent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABED406-EA0D-4131-B02D-419FC77E9143}|EduAccess.Frontend\\EduAccess.Frontend.csproj|c:\\users\\admni\\source\\repos\\eduaccess\\eduaccess.frontend\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ABED406-EA0D-4131-B02D-419FC77E9143}|EduAccess.Frontend\\EduAccess.Frontend.csproj|solutionrelative:eduaccess.frontend\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581B7E7E-E40A-EE8D-0FEA-7631CD2BC1E0}|EduAccess.API\\EduAccess.API.csproj|c:\\users\\admni\\source\\repos\\eduaccess\\eduaccess.api\\controllers\\updatestudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581B7E7E-E40A-EE8D-0FEA-7631CD2BC1E0}|EduAccess.API\\EduAccess.API.csproj|solutionrelative:eduaccess.api\\controllers\\updatestudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581B7E7E-E40A-EE8D-0FEA-7631CD2BC1E0}|EduAccess.API\\EduAccess.API.csproj|c:\\users\\admni\\source\\repos\\eduaccess\\eduaccess.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{581B7E7E-E40A-EE8D-0FEA-7631CD2BC1E0}|EduAccess.API\\EduAccess.API.csproj|solutionrelative:eduaccess.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABED406-EA0D-4131-B02D-419FC77E9143}|EduAccess.Frontend\\EduAccess.Frontend.csproj|c:\\users\\admni\\source\\repos\\eduaccess\\eduaccess.frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABED406-EA0D-4131-B02D-419FC77E9143}|EduAccess.Frontend\\EduAccess.Frontend.csproj|solutionrelative:eduaccess.frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E72868F-840C-B000-3579-3BF47B45E83A}|EduAccess.Application\\EduAccess.Application.csproj|c:\\users\\admni\\source\\repos\\eduaccess\\eduaccess.application\\dtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E72868F-840C-B000-3579-3BF47B45E83A}|EduAccess.Application\\EduAccess.Application.csproj|solutionrelative:eduaccess.application\\dtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581B7E7E-E40A-EE8D-0FEA-7631CD2BC1E0}|EduAccess.API\\EduAccess.API.csproj|c:\\users\\admni\\source\\repos\\eduaccess\\eduaccess.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581B7E7E-E40A-EE8D-0FEA-7631CD2BC1E0}|EduAccess.API\\EduAccess.API.csproj|solutionrelative:eduaccess.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581B7E7E-E40A-EE8D-0FEA-7631CD2BC1E0}|EduAccess.API\\EduAccess.API.csproj|c:\\users\\admni\\source\\repos\\eduaccess\\eduaccess.api\\eduaccess.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{581B7E7E-E40A-EE8D-0FEA-7631CD2BC1E0}|EduAccess.API\\EduAccess.API.csproj|solutionrelative:eduaccess.api\\eduaccess.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABED406-EA0D-4131-B02D-419FC77E9143}|EduAccess.Frontend\\EduAccess.Frontend.csproj|c:\\users\\admni\\source\\repos\\eduaccess\\eduaccess.frontend\\eduaccess.frontend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6ABED406-EA0D-4131-B02D-419FC77E9143}|EduAccess.Frontend\\EduAccess.Frontend.csproj|solutionrelative:eduaccess.frontend\\eduaccess.frontend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581B7E7E-E40A-EE8D-0FEA-7631CD2BC1E0}|EduAccess.API\\EduAccess.API.csproj|c:\\users\\admni\\source\\repos\\eduaccess\\eduaccess.api\\controllers\\deletestudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581B7E7E-E40A-EE8D-0FEA-7631CD2BC1E0}|EduAccess.API\\EduAccess.API.csproj|solutionrelative:eduaccess.api\\controllers\\deletestudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581B7E7E-E40A-EE8D-0FEA-7631CD2BC1E0}|EduAccess.API\\EduAccess.API.csproj|c:\\users\\admni\\source\\repos\\eduaccess\\eduaccess.api\\eduaccess.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{581B7E7E-E40A-EE8D-0FEA-7631CD2BC1E0}|EduAccess.API\\EduAccess.API.csproj|solutionrelative:eduaccess.api\\eduaccess.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E72868F-840C-B000-3579-3BF47B45E83A}|EduAccess.Application\\EduAccess.Application.csproj|c:\\users\\admni\\source\\repos\\eduaccess\\eduaccess.application\\dtos\\studentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E72868F-840C-B000-3579-3BF47B45E83A}|EduAccess.Application\\EduAccess.Application.csproj|solutionrelative:eduaccess.application\\dtos\\studentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E77C8D1-CCCB-AB9D-4265-CE3D1BFEE514}|EduAccess.Infrastructure\\EduAccess.Infrastructure.csproj|c:\\users\\admni\\source\\repos\\eduaccess\\eduaccess.infrastructure\\context\\educontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E77C8D1-CCCB-AB9D-4265-CE3D1BFEE514}|EduAccess.Infrastructure\\EduAccess.Infrastructure.csproj|solutionrelative:eduaccess.infrastructure\\context\\educontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E77C8D1-CCCB-AB9D-4265-CE3D1BFEE514}|EduAccess.Infrastructure\\EduAccess.Infrastructure.csproj|c:\\users\\admni\\source\\repos\\eduaccess\\eduaccess.infrastructure\\eduaccess.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E77C8D1-CCCB-AB9D-4265-CE3D1BFEE514}|EduAccess.Infrastructure\\EduAccess.Infrastructure.csproj|solutionrelative:eduaccess.infrastructure\\eduaccess.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D38A85-D92E-E76F-A7FC-4850B1041E56}|EduAccess\\EduAccess.Domain.csproj|c:\\users\\admni\\source\\repos\\eduaccess\\eduaccess\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D38A85-D92E-E76F-A7FC-4850B1041E56}|EduAccess\\EduAccess.Domain.csproj|solutionrelative:eduaccess\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E72868F-840C-B000-3579-3BF47B45E83A}|EduAccess.Application\\EduAccess.Application.csproj|c:\\users\\admni\\source\\repos\\eduaccess\\eduaccess.application\\eduaccess.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E72868F-840C-B000-3579-3BF47B45E83A}|EduAccess.Application\\EduAccess.Application.csproj|solutionrelative:eduaccess.application\\eduaccess.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D38A85-D92E-E76F-A7FC-4850B1041E56}|EduAccess\\EduAccess.Domain.csproj|c:\\users\\admni\\source\\repos\\eduaccess\\eduaccess\\eduaccess.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D1D38A85-D92E-E76F-A7FC-4850B1041E56}|EduAccess\\EduAccess.Domain.csproj|solutionrelative:eduaccess\\eduaccess.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E77C8D1-CCCB-AB9D-4265-CE3D1BFEE514}|EduAccess.Infrastructure\\EduAccess.Infrastructure.csproj|c:\\users\\admni\\source\\repos\\eduaccess\\eduaccess.infrastructure\\migrations\\20260404192422_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E77C8D1-CCCB-AB9D-4265-CE3D1BFEE514}|EduAccess.Infrastructure\\EduAccess.Infrastructure.csproj|solutionrelative:eduaccess.infrastructure\\migrations\\20260404192422_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditStudent.razor",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Frontend\\Pages\\EditStudent.razor",
+              "RelativeDocumentMoniker": "EduAccess.Frontend\\Pages\\EditStudent.razor",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Frontend\\Pages\\EditStudent.razor",
+              "RelativeToolTip": "EduAccess.Frontend\\Pages\\EditStudent.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T23:53:52.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "EduAccess.Infrastructure\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "EduAccess.Infrastructure\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T03:50:53.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetStudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.API\\Controllers\\GetStudentsController.cs",
+              "RelativeDocumentMoniker": "EduAccess.API\\Controllers\\GetStudentsController.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.API\\Controllers\\GetStudentsController.cs",
+              "RelativeToolTip": "EduAccess.API\\Controllers\\GetStudentsController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T17:19:03.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Frontend\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "EduAccess.Frontend\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Frontend\\Services\\StudentService.cs",
+              "RelativeToolTip": "EduAccess.Frontend\\Services\\StudentService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAwF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T18:49:50.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Students.razor",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Frontend\\Pages\\Students.razor",
+              "RelativeDocumentMoniker": "EduAccess.Frontend\\Pages\\Students.razor",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Frontend\\Pages\\Students.razor",
+              "RelativeToolTip": "EduAccess.Frontend\\Pages\\Students.razor",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwv1AAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T18:56:40.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateStudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.API\\Controllers\\CreateStudentController.cs",
+              "RelativeDocumentMoniker": "EduAccess.API\\Controllers\\CreateStudentController.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.API\\Controllers\\CreateStudentController.cs",
+              "RelativeToolTip": "EduAccess.API\\Controllers\\CreateStudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T18:10:04.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Application\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "EduAccess.Application\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Application\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "EduAccess.Application\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T03:39:16.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddStudent.razor",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Frontend\\Pages\\AddStudent.razor",
+              "RelativeDocumentMoniker": "EduAccess.Frontend\\Pages\\AddStudent.razor",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Frontend\\Pages\\AddStudent.razor",
+              "RelativeToolTip": "EduAccess.Frontend\\Pages\\AddStudent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T19:36:24.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Frontend\\_Imports.razor",
+              "RelativeDocumentMoniker": "EduAccess.Frontend\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Frontend\\_Imports.razor",
+              "RelativeToolTip": "EduAccess.Frontend\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T18:26:58.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateStudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.API\\Controllers\\UpdateStudentController.cs",
+              "RelativeDocumentMoniker": "EduAccess.API\\Controllers\\UpdateStudentController.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.API\\Controllers\\UpdateStudentController.cs",
+              "RelativeToolTip": "EduAccess.API\\Controllers\\UpdateStudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T18:11:48.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.API\\appsettings.json",
+              "RelativeDocumentMoniker": "EduAccess.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.API\\appsettings.json",
+              "RelativeToolTip": "EduAccess.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-04T04:06:04.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Frontend\\Program.cs",
+              "RelativeDocumentMoniker": "EduAccess.Frontend\\Program.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Frontend\\Program.cs",
+              "RelativeToolTip": "EduAccess.Frontend\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T18:54:23.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Application\\DTOs\\StudentUpdateDto.cs",
+              "RelativeDocumentMoniker": "EduAccess.Application\\DTOs\\StudentUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Application\\DTOs\\StudentUpdateDto.cs",
+              "RelativeToolTip": "EduAccess.Application\\DTOs\\StudentUpdateDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T03:20:30.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.API\\Program.cs",
+              "RelativeDocumentMoniker": "EduAccess.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.API\\Program.cs",
+              "RelativeToolTip": "EduAccess.API\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T04:07:19.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EduAccess.API",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.API\\EduAccess.API.csproj",
+              "RelativeDocumentMoniker": "EduAccess.API\\EduAccess.API.csproj",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.API\\EduAccess.API.csproj",
+              "RelativeToolTip": "EduAccess.API\\EduAccess.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-04T19:22:46.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EduAccess.Frontend.csproj",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Frontend\\EduAccess.Frontend.csproj",
+              "RelativeDocumentMoniker": "EduAccess.Frontend\\EduAccess.Frontend.csproj",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Frontend\\EduAccess.Frontend.csproj",
+              "RelativeToolTip": "EduAccess.Frontend\\EduAccess.Frontend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-04T18:24:41.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20260404192422_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Infrastructure\\Migrations\\20260404192422_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EduAccess.Infrastructure\\Migrations\\20260404192422_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Infrastructure\\Migrations\\20260404192422_InitialCreate.cs",
+              "RelativeToolTip": "EduAccess.Infrastructure\\Migrations\\20260404192422_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T19:24:23.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeleteStudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.API\\Controllers\\DeleteStudentController.cs",
+              "RelativeDocumentMoniker": "EduAccess.API\\Controllers\\DeleteStudentController.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.API\\Controllers\\DeleteStudentController.cs",
+              "RelativeToolTip": "EduAccess.API\\Controllers\\DeleteStudentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T18:12:37.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EduAccess.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.API\\EduAccess.API.csproj",
+              "RelativeDocumentMoniker": "EduAccess.API\\EduAccess.API.csproj",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.API\\EduAccess.API.csproj",
+              "RelativeToolTip": "EduAccess.API\\EduAccess.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-04T04:08:48.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudentResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Application\\DTOs\\StudentResponseDto.cs",
+              "RelativeDocumentMoniker": "EduAccess.Application\\DTOs\\StudentResponseDto.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Application\\DTOs\\StudentResponseDto.cs",
+              "RelativeToolTip": "EduAccess.Application\\DTOs\\StudentResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T03:21:37.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EduContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Infrastructure\\Context\\EduContext.cs",
+              "RelativeDocumentMoniker": "EduAccess.Infrastructure\\Context\\EduContext.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Infrastructure\\Context\\EduContext.cs",
+              "RelativeToolTip": "EduAccess.Infrastructure\\Context\\EduContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T03:27:07.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EduAccess.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Infrastructure\\EduAccess.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "EduAccess.Infrastructure\\EduAccess.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Infrastructure\\EduAccess.Infrastructure.csproj",
+              "RelativeToolTip": "EduAccess.Infrastructure\\EduAccess.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-04T03:24:12.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "EduAccess\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess\\Entities\\Student.cs",
+              "RelativeToolTip": "EduAccess\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T02:56:37.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EduAccess.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Application\\EduAccess.Application.csproj",
+              "RelativeDocumentMoniker": "EduAccess.Application\\EduAccess.Application.csproj",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess.Application\\EduAccess.Application.csproj",
+              "RelativeToolTip": "EduAccess.Application\\EduAccess.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-04T03:38:11.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EduAccess.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess\\EduAccess.Domain.csproj",
+              "RelativeDocumentMoniker": "EduAccess\\EduAccess.Domain.csproj",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\EduAccess\\EduAccess\\EduAccess.Domain.csproj",
+              "RelativeToolTip": "EduAccess\\EduAccess.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-04T02:55:32.365Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
