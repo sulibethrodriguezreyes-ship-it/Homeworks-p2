@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Audiologia.API\\Audiologia.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

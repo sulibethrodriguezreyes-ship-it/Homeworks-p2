@@ -1,0 +1,352 @@
+﻿@page "/hearingtests"
+@inject HttpClient Http
+@using Audiologia.BlazorClient.Models
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <div>
+        <h2 class="fw-bold mb-1">
+            <i class="bi bi-clipboard2-pulse text-info me-2"></i>Hearing Tests
+        </h2>
+        <p class="text-muted mb-0">Manage hearing tests</p>
+    </div>
+    <button class="btn btn-info text-white" @onclick="OpenCreateForm">
+        <i class="bi bi-plus-lg me-1"></i> New Hearing Test
+    </button>
+</div>
+
+@if (!string.IsNullOrWhiteSpace(message))
+{
+    <div class="alert alert-@messageType alert-dismissible fade show">
+        @message
+        <button type="button" class="btn-close" @onclick="ClearMessage"></button>
+    </div>
+}
+
+@if (showForm)
+{
+    <div class="card form-card mb-4">
+        <h5 class="fw-bold mb-3">
+            @(editingId.HasValue ? "Edit Hearing Test" : "New Hearing Test")
+        </h5>
+
+        <div class="row g-3">
+            <div class="col-md-4">
+                <label class="form-label">Patient *</label>
+                <select class="form-select" @bind="form.PatientId" disabled="@editingId.HasValue">
+                    <option value="0">-- Select patient --</option>
+                    @foreach (var p in (patients ?? new List<PatientModel>()))
+                    {
+                        <option value="@p.Id">@p.FullName</option>
+                    }
+                </select>
+            </div>
+
+            <div class="col-md-4">
+                <label class="form-label">Test Type</label>
+                <select class="form-select" @bind="form.TestType" disabled="@editingId.HasValue">
+                    <option value="0">Audiometry</option>
+                    <option value="1">Tympanometry</option>
+                    <option value="2">AuditoryEvokedPotentials</option>
+                    <option value="3">OtoacousticEmissions</option>
+                    <option value="4">SpeechAudiometry</option>
+                </select>
+            </div>
+
+            <div class="col-md-4">
+                <label class="form-label">Test Date</label>
+                <input type="date" class="form-control" @bind="form.TestDate" disabled="@editingId.HasValue" />
+            </div>
+
+            <div class="col-md-6">
+                <label class="form-label">Right Ear Loss</label>
+                <select class="form-select" @bind="form.RightEarLoss">
+                    <option value="0">Normal</option>
+                    <option value="1">Mild</option>
+                    <option value="2">Moderate</option>
+                    <option value="3">Severe</option>
+                    <option value="4">Profound</option>
+                </select>
+            </div>
+
+            <div class="col-md-6">
+                <label class="form-label">Left Ear Loss</label>
+                <select class="form-select" @bind="form.LeftEarLoss">
+                    <option value="0">Normal</option>
+                    <option value="1">Mild</option>
+                    <option value="2">Moderate</option>
+                    <option value="3">Severe</option>
+                    <option value="4">Profound</option>
+                </select>
+            </div>
+
+            <div class="col-md-3">
+                <label class="form-label">500 Hz</label>
+                <input type="number" class="form-control" @bind="form.Frequency500Hz" />
+            </div>
+
+            <div class="col-md-3">
+                <label class="form-label">1000 Hz</label>
+                <input type="number" class="form-control" @bind="form.Frequency1000Hz" />
+            </div>
+
+            <div class="col-md-3">
+                <label class="form-label">2000 Hz</label>
+                <input type="number" class="form-control" @bind="form.Frequency2000Hz" />
+            </div>
+
+            <div class="col-md-3">
+                <label class="form-label">4000 Hz</label>
+                <input type="number" class="form-control" @bind="form.Frequency4000Hz" />
+            </div>
+
+            <div class="col-12">
+                <label class="form-label">Detailed Results</label>
+                <textarea class="form-control" rows="3" @bind="form.DetailedResults"></textarea>
+            </div>
+
+            <div class="col-md-6">
+                <label class="form-label">Observations</label>
+                <textarea class="form-control" rows="2" @bind="form.Observations"></textarea>
+            </div>
+
+            <div class="col-md-6">
+                <label class="form-label">Recommendations</label>
+                <textarea class="form-control" rows="2" @bind="form.Recommendations"></textarea>
+            </div>
+
+            <div class="col-12">
+                <div class="form-check">
+                    <input id="hearingAid" class="form-check-input" type="checkbox" @bind="form.RequiresHearingAid" />
+                    <label class="form-check-label" for="hearingAid">Requires Hearing Aid</label>
+                </div>
+            </div>
+        </div>
+
+        <div class="mt-3 d-flex gap-2">
+            <button class="btn btn-info text-white" @onclick="SaveAsync" disabled="@saving">
+                @(editingId.HasValue ? "Update" : "Save")
+            </button>
+            <button class="btn btn-outline-secondary" @onclick="CancelForm">Cancel</button>
+        </div>
+    </div>
+}
+
+<div class="table-container">
+    @if (tests is null)
+    {
+        <div class="p-4 text-center">
+            <div class="spinner-border text-info"></div>
+        </div>
+    }
+    else if (!tests.Any())
+    {
+        <div class="p-4 text-center text-muted">
+            No hearing tests registered
+        </div>
+    }
+    else
+    {
+        <div class="table-responsive">
+            <table class="table table-hover mb-0">
+                <thead class="table-light">
+                    <tr>
+                        <th>Patient</th>
+                        <th>Test Type</th>
+                        <th>Date</th>
+                        <th>Right Ear</th>
+                        <th>Left Ear</th>
+                        <th class="text-center">Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var t in tests)
+                    {
+                        <tr>
+                            <td>@t.PatientName</td>
+                            <td>@t.TestType</td>
+                            <td>@t.TestDate.ToString("dd/MM/yyyy")</td>
+                            <td>@t.RightEarLoss</td>
+                            <td>@t.LeftEarLoss</td>
+                            <td class="text-center">
+                                <button class="btn btn-sm btn-outline-primary me-1" @onclick="() => EditTest(t)">
+                                    Edit
+                                </button>
+                                <button class="btn btn-sm btn-outline-danger" @onclick="() => DeleteTestAsync(t.Id)">
+                                    Delete
+                                </button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+</div>
+
+@code {
+    private List<HearingTestModel>? tests;
+    private List<PatientModel>? patients;
+    private HearingTestCreateModel form = new();
+    private bool showForm;
+    private bool saving;
+    private int? editingId;
+    private string message = string.Empty;
+    private string messageType = "success";
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadAllAsync();
+    }
+
+    private async Task LoadAllAsync()
+    {
+        tests = await Http.GetFromJsonAsync<List<HearingTestModel>>("api/hearingtests");
+        patients = await Http.GetFromJsonAsync<List<PatientModel>>("api/patients");
+    }
+
+    private void OpenCreateForm()
+    {
+        form = new HearingTestCreateModel
+        {
+            TestDate = DateTime.Today
+        };
+
+        editingId = null;
+        showForm = true;
+    }
+
+    private void EditTest(HearingTestModel test)
+    {
+        editingId = test.Id;
+        form = new HearingTestCreateModel
+        {
+            PatientId = test.PatientId,
+            TestDate = test.TestDate,
+            TestType = ParseTestType(test.TestType),
+            RightEarLoss = ParseLoss(test.RightEarLoss),
+            LeftEarLoss = ParseLoss(test.LeftEarLoss),
+            DetailedResults = test.DetailedResults,
+            Observations = test.Observations,
+            Recommendations = test.Recommendations,
+            RequiresHearingAid = test.RequiresHearingAid,
+            Frequency500Hz = test.Frequency500Hz,
+            Frequency1000Hz = test.Frequency1000Hz,
+            Frequency2000Hz = test.Frequency2000Hz,
+            Frequency4000Hz = test.Frequency4000Hz
+        };
+
+        showForm = true;
+    }
+
+    private async Task SaveAsync()
+    {
+        if (form.PatientId == 0)
+        {
+            ShowMessage("Patient is required.", "danger");
+            return;
+        }
+
+        saving = true;
+
+        try
+        {
+            HttpResponseMessage response;
+
+            if (editingId.HasValue)
+            {
+                var updateDto = new
+                {
+                    RightEarLoss = form.RightEarLoss,
+                    LeftEarLoss = form.LeftEarLoss,
+                    DetailedResults = form.DetailedResults,
+                    Observations = form.Observations,
+                    Recommendations = form.Recommendations,
+                    RequiresHearingAid = form.RequiresHearingAid,
+                    Frequency500Hz = form.Frequency500Hz,
+                    Frequency1000Hz = form.Frequency1000Hz,
+                    Frequency2000Hz = form.Frequency2000Hz,
+                    Frequency4000Hz = form.Frequency4000Hz
+                };
+
+                response = await Http.PutAsJsonAsync($"api/hearingtests/{editingId.Value}", updateDto);
+            }
+            else
+            {
+                response = await Http.PostAsJsonAsync("api/hearingtests", form);
+            }
+
+            if (response.IsSuccessStatusCode)
+            {
+                ShowMessage(editingId.HasValue ? "Hearing test updated successfully." : "Hearing test created successfully.", "success");
+                CancelForm();
+                await LoadAllAsync();
+            }
+            else
+            {
+                var error = await response.Content.ReadAsStringAsync();
+                ShowMessage(error, "danger");
+            }
+        }
+        catch (Exception ex)
+        {
+            ShowMessage(ex.Message, "danger");
+        }
+        finally
+        {
+            saving = false;
+        }
+    }
+
+    private async Task DeleteTestAsync(int id)
+    {
+        var response = await Http.DeleteAsync($"api/hearingtests/{id}");
+
+        if (response.IsSuccessStatusCode)
+        {
+            ShowMessage("Hearing test deleted successfully.", "success");
+            await LoadAllAsync();
+        }
+        else
+        {
+            ShowMessage("Could not delete hearing test.", "danger");
+        }
+    }
+
+    private int ParseLoss(string value) => value switch
+    {
+        "Normal" => 0,
+        "Mild" => 1,
+        "Moderate" => 2,
+        "Severe" => 3,
+        "Profound" => 4,
+        _ => 0
+    };
+
+    private int ParseTestType(string value) => value switch
+    {
+        "Audiometry" => 0,
+        "Tympanometry" => 1,
+        "AuditoryEvokedPotentials" => 2,
+        "OtoacousticEmissions" => 3,
+        "SpeechAudiometry" => 4,
+        _ => 0
+    };
+
+    private void CancelForm()
+    {
+        showForm = false;
+        editingId = null;
+        form = new HearingTestCreateModel();
+    }
+
+    private void ShowMessage(string text, string type)
+    {
+        message = text;
+        messageType = type;
+    }
+
+    private void ClearMessage()
+    {
+        message = string.Empty;
+    }
+}

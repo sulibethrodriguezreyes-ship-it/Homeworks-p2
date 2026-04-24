@@ -1,0 +1,11 @@
+C:\Users\Admni\source\repos\Audiologia\Audiologia.Domain\bin\Debug\net10.0\Audiologia.Domain.deps.json
+C:\Users\Admni\source\repos\Audiologia\Audiologia.Domain\bin\Debug\net10.0\Audiologia.Domain.dll
+C:\Users\Admni\source\repos\Audiologia\Audiologia.Domain\bin\Debug\net10.0\Audiologia.Domain.pdb
+C:\Users\Admni\source\repos\Audiologia\Audiologia.Domain\obj\Debug\net10.0\Audiologia.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admni\source\repos\Audiologia\Audiologia.Domain\obj\Debug\net10.0\Audiologia.Domain.AssemblyInfoInputs.cache
+C:\Users\Admni\source\repos\Audiologia\Audiologia.Domain\obj\Debug\net10.0\Audiologia.Domain.AssemblyInfo.cs
+C:\Users\Admni\source\repos\Audiologia\Audiologia.Domain\obj\Debug\net10.0\Audiologia.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admni\source\repos\Audiologia\Audiologia.Domain\obj\Debug\net10.0\Audiologia.Domain.dll
+C:\Users\Admni\source\repos\Audiologia\Audiologia.Domain\obj\Debug\net10.0\refint\Audiologia.Domain.dll
+C:\Users\Admni\source\repos\Audiologia\Audiologia.Domain\obj\Debug\net10.0\Audiologia.Domain.pdb
+C:\Users\Admni\source\repos\Audiologia\Audiologia.Domain\obj\Debug\net10.0\ref\Audiologia.Domain.dll

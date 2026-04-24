@@ -1,0 +1,5 @@
+wwwroot\css\app.css
+wwwroot\icon-192.png
+wwwroot\index.html
+C:\Users\Admni\source\repos\Audiologia\Audiologia.BlazorClient\wwwroot\css\app.css
+C:\Users\Admni\source\repos\Audiologia\Audiologia.BlazorClient\wwwroot\index.html

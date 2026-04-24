@@ -1,0 +1,15 @@
+C:\Users\Admni\source\repos\Audiologia\Audiologia.Application\bin\Debug\net10.0\Audiologia.Application.deps.json
+C:\Users\Admni\source\repos\Audiologia\Audiologia.Application\bin\Debug\net10.0\Audiologia.Application.dll
+C:\Users\Admni\source\repos\Audiologia\Audiologia.Application\bin\Debug\net10.0\Audiologia.Application.pdb
+C:\Users\Admni\source\repos\Audiologia\Audiologia.Application\bin\Debug\net10.0\Audiologia.Domain.dll
+C:\Users\Admni\source\repos\Audiologia\Audiologia.Application\bin\Debug\net10.0\Audiologia.Domain.pdb
+C:\Users\Admni\source\repos\Audiologia\Audiologia.Application\obj\Debug\net10.0\Audiologia.Application.csproj.AssemblyReference.cache
+C:\Users\Admni\source\repos\Audiologia\Audiologia.Application\obj\Debug\net10.0\Audiologia.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admni\source\repos\Audiologia\Audiologia.Application\obj\Debug\net10.0\Audiologia.Application.AssemblyInfoInputs.cache
+C:\Users\Admni\source\repos\Audiologia\Audiologia.Application\obj\Debug\net10.0\Audiologia.Application.AssemblyInfo.cs
+C:\Users\Admni\source\repos\Audiologia\Audiologia.Application\obj\Debug\net10.0\Audiologia.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admni\source\repos\Audiologia\Audiologia.Application\obj\Debug\net10.0\Audiolog.5645CEA4.Up2Date
+C:\Users\Admni\source\repos\Audiologia\Audiologia.Application\obj\Debug\net10.0\Audiologia.Application.dll
+C:\Users\Admni\source\repos\Audiologia\Audiologia.Application\obj\Debug\net10.0\refint\Audiologia.Application.dll
+C:\Users\Admni\source\repos\Audiologia\Audiologia.Application\obj\Debug\net10.0\Audiologia.Application.pdb
+C:\Users\Admni\source\repos\Audiologia\Audiologia.Application\obj\Debug\net10.0\ref\Audiologia.Application.dll

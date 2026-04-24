@@ -1,0 +1,942 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admni\\source\\repos\\Audiologia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E484371-5ABD-4C5D-9B6F-7FC20B2D715E}|Audiologia.API\\Audiologia.API.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E484371-5ABD-4C5D-9B6F-7FC20B2D715E}|Audiologia.API\\Audiologia.API.csproj|solutionrelative:audiologia.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.blazorclient\\pages\\hearingtests.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|solutionrelative:audiologia.blazorclient\\pages\\hearingtests.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.blazorclient\\pages\\appointments.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|solutionrelative:audiologia.blazorclient\\pages\\appointments.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.blazorclient\\pages\\patients.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|solutionrelative:audiologia.blazorclient\\pages\\patients.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.blazorclient\\pages\\specialists.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|solutionrelative:audiologia.blazorclient\\pages\\specialists.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.blazorclient\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|solutionrelative:audiologia.blazorclient\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.blazorclient\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|solutionrelative:audiologia.blazorclient\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.blazorclient\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|solutionrelative:audiologia.blazorclient\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.blazorclient\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|solutionrelative:audiologia.blazorclient\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.blazorclient\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|solutionrelative:audiologia.blazorclient\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.blazorclient\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|solutionrelative:audiologia.blazorclient\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.blazorclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|solutionrelative:audiologia.blazorclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E484371-5ABD-4C5D-9B6F-7FC20B2D715E}|Audiologia.API\\Audiologia.API.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E484371-5ABD-4C5D-9B6F-7FC20B2D715E}|Audiologia.API\\Audiologia.API.csproj|solutionrelative:audiologia.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E484371-5ABD-4C5D-9B6F-7FC20B2D715E}|Audiologia.API\\Audiologia.API.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.api\\audiologia.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1E484371-5ABD-4C5D-9B6F-7FC20B2D715E}|Audiologia.API\\Audiologia.API.csproj|solutionrelative:audiologia.api\\audiologia.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.blazorclient\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|solutionrelative:audiologia.blazorclient\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E484371-5ABD-4C5D-9B6F-7FC20B2D715E}|Audiologia.API\\Audiologia.API.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E484371-5ABD-4C5D-9B6F-7FC20B2D715E}|Audiologia.API\\Audiologia.API.csproj|solutionrelative:audiologia.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.blazorclient\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|solutionrelative:audiologia.blazorclient\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.blazorclient\\audiologia.blazorclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6BB2CBDF-EE6A-4A9F-88D0-348CE0DD2012}|Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj|solutionrelative:audiologia.blazorclient\\audiologia.blazorclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Infrastructure\\Migrations\\20260423212929_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Audiologia.Infrastructure\\Migrations\\20260423212929_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E484371-5ABD-4C5D-9B6F-7FC20B2D715E}|Audiologia.API\\Audiologia.API.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.api\\controllers\\hearingtestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E484371-5ABD-4C5D-9B6F-7FC20B2D715E}|Audiologia.API\\Audiologia.API.csproj|solutionrelative:audiologia.api\\controllers\\hearingtestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E484371-5ABD-4C5D-9B6F-7FC20B2D715E}|Audiologia.API\\Audiologia.API.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.api\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E484371-5ABD-4C5D-9B6F-7FC20B2D715E}|Audiologia.API\\Audiologia.API.csproj|solutionrelative:audiologia.api\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E484371-5ABD-4C5D-9B6F-7FC20B2D715E}|Audiologia.API\\Audiologia.API.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.api\\controllers\\specialistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E484371-5ABD-4C5D-9B6F-7FC20B2D715E}|Audiologia.API\\Audiologia.API.csproj|solutionrelative:audiologia.api\\controllers\\specialistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E484371-5ABD-4C5D-9B6F-7FC20B2D715E}|Audiologia.API\\Audiologia.API.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.api\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E484371-5ABD-4C5D-9B6F-7FC20B2D715E}|Audiologia.API\\Audiologia.API.csproj|solutionrelative:audiologia.api\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E79E94E-872A-4B52-86E1-2494892C2ECF}|Audiologia.Infrastructure\\Audiologia.Infrastructure.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.infrastructure\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E79E94E-872A-4B52-86E1-2494892C2ECF}|Audiologia.Infrastructure\\Audiologia.Infrastructure.csproj|solutionrelative:audiologia.infrastructure\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E79E94E-872A-4B52-86E1-2494892C2ECF}|Audiologia.Infrastructure\\Audiologia.Infrastructure.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.infrastructure\\audiologia.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E79E94E-872A-4B52-86E1-2494892C2ECF}|Audiologia.Infrastructure\\Audiologia.Infrastructure.csproj|solutionrelative:audiologia.infrastructure\\audiologia.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E79E94E-872A-4B52-86E1-2494892C2ECF}|Audiologia.Infrastructure\\Audiologia.Infrastructure.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.infrastructure\\repositories\\hearingtestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E79E94E-872A-4B52-86E1-2494892C2ECF}|Audiologia.Infrastructure\\Audiologia.Infrastructure.csproj|solutionrelative:audiologia.infrastructure\\repositories\\hearingtestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E79E94E-872A-4B52-86E1-2494892C2ECF}|Audiologia.Infrastructure\\Audiologia.Infrastructure.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.infrastructure\\repositories\\specialistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E79E94E-872A-4B52-86E1-2494892C2ECF}|Audiologia.Infrastructure\\Audiologia.Infrastructure.csproj|solutionrelative:audiologia.infrastructure\\repositories\\specialistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E79E94E-872A-4B52-86E1-2494892C2ECF}|Audiologia.Infrastructure\\Audiologia.Infrastructure.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.infrastructure\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E79E94E-872A-4B52-86E1-2494892C2ECF}|Audiologia.Infrastructure\\Audiologia.Infrastructure.csproj|solutionrelative:audiologia.infrastructure\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E79E94E-872A-4B52-86E1-2494892C2ECF}|Audiologia.Infrastructure\\Audiologia.Infrastructure.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E79E94E-872A-4B52-86E1-2494892C2ECF}|Audiologia.Infrastructure\\Audiologia.Infrastructure.csproj|solutionrelative:audiologia.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E79E94E-872A-4B52-86E1-2494892C2ECF}|Audiologia.Infrastructure\\Audiologia.Infrastructure.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.infrastructure\\data\\audiologiadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E79E94E-872A-4B52-86E1-2494892C2ECF}|Audiologia.Infrastructure\\Audiologia.Infrastructure.csproj|solutionrelative:audiologia.infrastructure\\data\\audiologiadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.application\\services\\hearingtestservic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|solutionrelative:audiologia.application\\services\\hearingtestservic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.application\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|solutionrelative:audiologia.application\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.application\\services\\specialistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|solutionrelative:audiologia.application\\services\\specialistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.application\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|solutionrelative:audiologia.application\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.application\\services\\interfaces\\ihearingtestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|solutionrelative:audiologia.application\\services\\interfaces\\ihearingtestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.application\\services\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|solutionrelative:audiologia.application\\services\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.application\\services\\interfaces\\ispecialistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|solutionrelative:audiologia.application\\services\\interfaces\\ispecialistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.application\\services\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|solutionrelative:audiologia.application\\services\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.application\\interfaces\\ihearingtestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|solutionrelative:audiologia.application\\interfaces\\ihearingtestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.application\\interfaces\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|solutionrelative:audiologia.application\\interfaces\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.application\\interfaces\\ispecialistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|solutionrelative:audiologia.application\\interfaces\\ispecialistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.application\\interfaces\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|solutionrelative:audiologia.application\\interfaces\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.application\\dtos\\specialistdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|solutionrelative:audiologia.application\\dtos\\specialistdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.application\\dtos\\patientdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|solutionrelative:audiologia.application\\dtos\\patientdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.application\\dtos\\hearingtestdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|solutionrelative:audiologia.application\\dtos\\hearingtestdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.application\\dtos\\appointmentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|solutionrelative:audiologia.application\\dtos\\appointmentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|solutionrelative:audiologia.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FC22D0-64E5-4425-9D1D-173E641D9904}|Audiologia.Domain\\Audiologia.Domain.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.domain\\entities\\hearingtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7FC22D0-64E5-4425-9D1D-173E641D9904}|Audiologia.Domain\\Audiologia.Domain.csproj|solutionrelative:audiologia.domain\\entities\\hearingtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FC22D0-64E5-4425-9D1D-173E641D9904}|Audiologia.Domain\\Audiologia.Domain.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7FC22D0-64E5-4425-9D1D-173E641D9904}|Audiologia.Domain\\Audiologia.Domain.csproj|solutionrelative:audiologia.domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FC22D0-64E5-4425-9D1D-173E641D9904}|Audiologia.Domain\\Audiologia.Domain.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.domain\\entities\\specialist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7FC22D0-64E5-4425-9D1D-173E641D9904}|Audiologia.Domain\\Audiologia.Domain.csproj|solutionrelative:audiologia.domain\\entities\\specialist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FC22D0-64E5-4425-9D1D-173E641D9904}|Audiologia.Domain\\Audiologia.Domain.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7FC22D0-64E5-4425-9D1D-173E641D9904}|Audiologia.Domain\\Audiologia.Domain.csproj|solutionrelative:audiologia.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FC22D0-64E5-4425-9D1D-173E641D9904}|Audiologia.Domain\\Audiologia.Domain.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7FC22D0-64E5-4425-9D1D-173E641D9904}|Audiologia.Domain\\Audiologia.Domain.csproj|solutionrelative:audiologia.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FC22D0-64E5-4425-9D1D-173E641D9904}|Audiologia.Domain\\Audiologia.Domain.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.domain\\audiologia.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7FC22D0-64E5-4425-9D1D-173E641D9904}|Audiologia.Domain\\Audiologia.Domain.csproj|solutionrelative:audiologia.domain\\audiologia.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|c:\\users\\admni\\source\\repos\\audiologia\\audiologia.application\\audiologia.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B37CB351-82D9-47A7-8D68-F86FB7A98699}|Audiologia.Application\\Audiologia.Application.csproj|solutionrelative:audiologia.application\\audiologia.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HearingTests.razor",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\Pages\\HearingTests.razor",
+              "RelativeDocumentMoniker": "Audiologia.BlazorClient\\Pages\\HearingTests.razor",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\Pages\\HearingTests.razor",
+              "RelativeToolTip": "Audiologia.BlazorClient\\Pages\\HearingTests.razor",
+              "ViewState": "AgIAAFABAAAAAAAAAAAqwFwBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T22:50:40.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Audiologia.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.API\\appsettings.json",
+              "RelativeToolTip": "Audiologia.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-23T21:18:00.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Appointments.razor",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\Pages\\Appointments.razor",
+              "RelativeDocumentMoniker": "Audiologia.BlazorClient\\Pages\\Appointments.razor",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\Pages\\Appointments.razor",
+              "RelativeToolTip": "Audiologia.BlazorClient\\Pages\\Appointments.razor",
+              "ViewState": "AgIAAB4BAAAAAAAAAAAqwC0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T22:50:21.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patients.razor",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\Pages\\Patients.razor",
+              "RelativeDocumentMoniker": "Audiologia.BlazorClient\\Pages\\Patients.razor",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\Pages\\Patients.razor",
+              "RelativeToolTip": "Audiologia.BlazorClient\\Pages\\Patients.razor",
+              "ViewState": "AgIAAAABAAAAAAAAAAAqwA8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T22:49:21.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Specialists.razor",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\Pages\\Specialists.razor",
+              "RelativeDocumentMoniker": "Audiologia.BlazorClient\\Pages\\Specialists.razor",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\Pages\\Specialists.razor",
+              "RelativeToolTip": "Audiologia.BlazorClient\\Pages\\Specialists.razor",
+              "ViewState": "AgIAAAkBAAAAAAAAAAAqwBgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T22:49:56.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Audiologia.BlazorClient\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\Pages\\Index.razor",
+              "RelativeToolTip": "Audiologia.BlazorClient\\Pages\\Index.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T22:14:10.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\_Imports.razor",
+              "RelativeDocumentMoniker": "Audiologia.BlazorClient\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\_Imports.razor",
+              "RelativeToolTip": "Audiologia.BlazorClient\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T21:39:00.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\App.razor",
+              "RelativeDocumentMoniker": "Audiologia.BlazorClient\\App.razor",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\App.razor",
+              "RelativeToolTip": "Audiologia.BlazorClient\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T21:35:58.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Audiologia.BlazorClient\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Audiologia.BlazorClient\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwC0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T22:43:37.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Audiologia.BlazorClient\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Audiologia.BlazorClient\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T21:36:16.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Audiologia.BlazorClient\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\wwwroot\\index.html",
+              "RelativeToolTip": "Audiologia.BlazorClient\\wwwroot\\index.html",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-23T21:35:00.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\Program.cs",
+              "RelativeDocumentMoniker": "Audiologia.BlazorClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\Program.cs",
+              "RelativeToolTip": "Audiologia.BlazorClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:32:24.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.API\\Program.cs",
+              "RelativeDocumentMoniker": "Audiologia.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.API\\Program.cs",
+              "RelativeToolTip": "Audiologia.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:19:27.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Audiologia.API",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.API\\Audiologia.API.csproj",
+              "RelativeDocumentMoniker": "Audiologia.API\\Audiologia.API.csproj",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.API\\Audiologia.API.csproj",
+              "RelativeToolTip": "Audiologia.API\\Audiologia.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-23T20:30:23.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "Audiologia.BlazorClient\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "Audiologia.BlazorClient\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAAIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-23T21:35:34.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Audiologia.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Audiologia.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-23T21:33:01.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\Models\\Models.cs",
+              "RelativeDocumentMoniker": "Audiologia.BlazorClient\\Models\\Models.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\Models\\Models.cs",
+              "RelativeToolTip": "Audiologia.BlazorClient\\Models\\Models.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAA6wHAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:32:03.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Audiologia.BlazorClient",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj",
+              "RelativeDocumentMoniker": "Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj",
+              "RelativeToolTip": "Audiologia.BlazorClient\\Audiologia.BlazorClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-23T21:31:15.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260423212929_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Infrastructure\\Migrations\\20260423212929_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Audiologia.Infrastructure\\Migrations\\20260423212929_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Infrastructure\\Migrations\\20260423212929_InitialCreate.cs",
+              "RelativeToolTip": "Audiologia.Infrastructure\\Migrations\\20260423212929_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:29:29.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HearingTestsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.API\\Controllers\\HearingTestsController.cs",
+              "RelativeDocumentMoniker": "Audiologia.API\\Controllers\\HearingTestsController.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.API\\Controllers\\HearingTestsController.cs",
+              "RelativeToolTip": "Audiologia.API\\Controllers\\HearingTestsController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAQwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:26:01.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.API\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "Audiologia.API\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.API\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "Audiologia.API\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAQwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:25:35.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SpecialistsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.API\\Controllers\\SpecialistsController.cs",
+              "RelativeDocumentMoniker": "Audiologia.API\\Controllers\\SpecialistsController.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.API\\Controllers\\SpecialistsController.cs",
+              "RelativeToolTip": "Audiologia.API\\Controllers\\SpecialistsController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAQwEIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:25:14.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.API\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Audiologia.API\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.API\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "Audiologia.API\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAQwEoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:24:35.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "Audiologia.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "Audiologia.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:23:23.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Audiologia.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Infrastructure\\Audiologia.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Audiologia.Infrastructure\\Audiologia.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Infrastructure\\Audiologia.Infrastructure.csproj",
+              "RelativeToolTip": "Audiologia.Infrastructure\\Audiologia.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-23T20:29:49.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HearingTestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Infrastructure\\Repositories\\HearingTestRepository.cs",
+              "RelativeDocumentMoniker": "Audiologia.Infrastructure\\Repositories\\HearingTestRepository.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Infrastructure\\Repositories\\HearingTestRepository.cs",
+              "RelativeToolTip": "Audiologia.Infrastructure\\Repositories\\HearingTestRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:17:10.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SpecialistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Infrastructure\\Repositories\\SpecialistRepository.cs",
+              "RelativeDocumentMoniker": "Audiologia.Infrastructure\\Repositories\\SpecialistRepository.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Infrastructure\\Repositories\\SpecialistRepository.cs",
+              "RelativeToolTip": "Audiologia.Infrastructure\\Repositories\\SpecialistRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA8wBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:16:33.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Infrastructure\\Repositories\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "Audiologia.Infrastructure\\Repositories\\PatientRepository.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Infrastructure\\Repositories\\PatientRepository.cs",
+              "RelativeToolTip": "Audiologia.Infrastructure\\Repositories\\PatientRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:16:11.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Audiologia.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Audiologia.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAqwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:15:28.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AudiologiaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Infrastructure\\Data\\AudiologiaDbContext.cs",
+              "RelativeDocumentMoniker": "Audiologia.Infrastructure\\Data\\AudiologiaDbContext.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Infrastructure\\Data\\AudiologiaDbContext.cs",
+              "RelativeToolTip": "Audiologia.Infrastructure\\Data\\AudiologiaDbContext.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:14:01.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HearingTestServic.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Services\\HearingTestServic.cs",
+              "RelativeDocumentMoniker": "Audiologia.Application\\Services\\HearingTestServic.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Services\\HearingTestServic.cs",
+              "RelativeToolTip": "Audiologia.Application\\Services\\HearingTestServic.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAcwHYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:10:24.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "Audiologia.Application\\Services\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "Audiologia.Application\\Services\\AppointmentService.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAqwHUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:09:59.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SpecialistService.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Services\\SpecialistService.cs",
+              "RelativeDocumentMoniker": "Audiologia.Application\\Services\\SpecialistService.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Services\\SpecialistService.cs",
+              "RelativeToolTip": "Audiologia.Application\\Services\\SpecialistService.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAqwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:08:37.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "Audiologia.Application\\Services\\PatientService.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Services\\PatientService.cs",
+              "RelativeToolTip": "Audiologia.Application\\Services\\PatientService.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAqwGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:08:07.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IHearingTestService.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Services\\Interfaces\\IHearingTestService.cs",
+              "RelativeDocumentMoniker": "Audiologia.Application\\Services\\Interfaces\\IHearingTestService.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Services\\Interfaces\\IHearingTestService.cs",
+              "RelativeToolTip": "Audiologia.Application\\Services\\Interfaces\\IHearingTestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:07:43.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Services\\Interfaces\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "Audiologia.Application\\Services\\Interfaces\\IAppointmentService.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Services\\Interfaces\\IAppointmentService.cs",
+              "RelativeToolTip": "Audiologia.Application\\Services\\Interfaces\\IAppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:07:15.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ISpecialistService.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Services\\Interfaces\\ISpecialistService.cs",
+              "RelativeDocumentMoniker": "Audiologia.Application\\Services\\Interfaces\\ISpecialistService.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Services\\Interfaces\\ISpecialistService.cs",
+              "RelativeToolTip": "Audiologia.Application\\Services\\Interfaces\\ISpecialistService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:06:29.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Services\\Interfaces\\IPatientService.cs",
+              "RelativeDocumentMoniker": "Audiologia.Application\\Services\\Interfaces\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Services\\Interfaces\\IPatientService.cs",
+              "RelativeToolTip": "Audiologia.Application\\Services\\Interfaces\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:05:45.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IHearingTestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Interfaces\\IHearingTestRepository.cs",
+              "RelativeDocumentMoniker": "Audiologia.Application\\Interfaces\\IHearingTestRepository.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Interfaces\\IHearingTestRepository.cs",
+              "RelativeToolTip": "Audiologia.Application\\Interfaces\\IHearingTestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:04:21.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Interfaces\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "Audiologia.Application\\Interfaces\\IAppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Interfaces\\IAppointmentRepository.cs",
+              "RelativeToolTip": "Audiologia.Application\\Interfaces\\IAppointmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:03:57.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ISpecialistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Interfaces\\ISpecialistRepository.cs",
+              "RelativeDocumentMoniker": "Audiologia.Application\\Interfaces\\ISpecialistRepository.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Interfaces\\ISpecialistRepository.cs",
+              "RelativeToolTip": "Audiologia.Application\\Interfaces\\ISpecialistRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:02:54.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SpecialistDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\DTOs\\SpecialistDtos.cs",
+              "RelativeDocumentMoniker": "Audiologia.Application\\DTOs\\SpecialistDtos.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\DTOs\\SpecialistDtos.cs",
+              "RelativeToolTip": "Audiologia.Application\\DTOs\\SpecialistDtos.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwBsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:58:12.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Interfaces\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "Audiologia.Application\\Interfaces\\IPatientRepository.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Interfaces\\IPatientRepository.cs",
+              "RelativeToolTip": "Audiologia.Application\\Interfaces\\IPatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:01:50.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PatientDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\DTOs\\PatientDtos.cs",
+              "RelativeDocumentMoniker": "Audiologia.Application\\DTOs\\PatientDtos.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\DTOs\\PatientDtos.cs",
+              "RelativeToolTip": "Audiologia.Application\\DTOs\\PatientDtos.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA8wCAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:57:36.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "HearingTestDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\DTOs\\HearingTestDtos.cs",
+              "RelativeDocumentMoniker": "Audiologia.Application\\DTOs\\HearingTestDtos.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\DTOs\\HearingTestDtos.cs",
+              "RelativeToolTip": "Audiologia.Application\\DTOs\\HearingTestDtos.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAA8wCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:59:14.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AppointmentDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\DTOs\\AppointmentDtos.cs",
+              "RelativeDocumentMoniker": "Audiologia.Application\\DTOs\\AppointmentDtos.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\DTOs\\AppointmentDtos.cs",
+              "RelativeToolTip": "Audiologia.Application\\DTOs\\AppointmentDtos.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwBwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:58:44.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Audiologia.Application\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Audiologia.Application\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:01:21.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Domain\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "Audiologia.Domain\\Entities\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Domain\\Entities\\Appointment.cs",
+              "RelativeToolTip": "Audiologia.Domain\\Entities\\Appointment.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:46:29.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "HearingTest.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Domain\\Entities\\HearingTest.cs",
+              "RelativeDocumentMoniker": "Audiologia.Domain\\Entities\\HearingTest.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Domain\\Entities\\HearingTest.cs",
+              "RelativeToolTip": "Audiologia.Domain\\Entities\\HearingTest.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAIwFIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:46:43.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Specialist.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Domain\\Entities\\Specialist.cs",
+              "RelativeDocumentMoniker": "Audiologia.Domain\\Entities\\Specialist.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Domain\\Entities\\Specialist.cs",
+              "RelativeToolTip": "Audiologia.Domain\\Entities\\Specialist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:46:58.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Audiologia.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Audiologia.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:34:45.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Domain\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "Audiologia.Domain\\Entities\\Patient.cs",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Domain\\Entities\\Patient.cs",
+              "RelativeToolTip": "Audiologia.Domain\\Entities\\Patient.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAuwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:43:43.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Audiologia.Domain",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Domain\\Audiologia.Domain.csproj",
+              "RelativeDocumentMoniker": "Audiologia.Domain\\Audiologia.Domain.csproj",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Domain\\Audiologia.Domain.csproj",
+              "RelativeToolTip": "Audiologia.Domain\\Audiologia.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-23T20:34:11.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Audiologia.Application",
+              "DocumentMoniker": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Audiologia.Application.csproj",
+              "RelativeDocumentMoniker": "Audiologia.Application\\Audiologia.Application.csproj",
+              "ToolTip": "C:\\Users\\Admni\\source\\repos\\Audiologia\\Audiologia.Application\\Audiologia.Application.csproj",
+              "RelativeToolTip": "Audiologia.Application\\Audiologia.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-23T20:29:16.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

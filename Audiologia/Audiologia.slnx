@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Audiologia.API/Audiologia.API.csproj" />
+  <Project Path="Audiologia.Application/Audiologia.Application.csproj" />
+  <Project Path="Audiologia.BlazorClient/Audiologia.BlazorClient.csproj" />
+  <Project Path="Audiologia.Domain/Audiologia.Domain.csproj" />
+  <Project Path="Audiologia.Infrastructure/Audiologia.Infrastructure.csproj" />
+</Solution>
